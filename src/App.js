@@ -14,7 +14,7 @@ function App(props) {
      <main>
        <Routes>
          <Route path="/" element={<Home/>}/>
-         <Route path="/aboutye" element={<AboutYe name={props.name} hometown={props.hometown} career={props.career} accomplishments={props.accomplishments} networth={props.networth}/>}/>
+         <Route path="/aboutye" element={<AboutYe name={props.name} hometown={props.hometown} career={props.career} accomplishments={props.accomplishments} networth={props.networth} facts={props.facts}/>}/>
        </Routes>
      </main>
     </div>
