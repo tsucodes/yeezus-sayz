@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { Component } from "react";
 
-
 class Quote extends Component {
     constructor() {
         super();
@@ -23,12 +22,11 @@ class Quote extends Component {
     render(){
         return(
             <div>
-                <div className="quote">{this.state.quotes} </div>
-                <button className="button" onClick={this.getQuote}> Ye Sayz </button>
+                <div className="quote">"{this.state.quotes} "</div>
+                <button className="button" onClick={this.getQuote}> -Ye Sayz </button>
             </div>
         )
     }
    
 }
-   
 export default Quote

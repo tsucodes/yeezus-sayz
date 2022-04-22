@@ -11,11 +11,12 @@ import kanye9 from  '../images/kanye-speech.jpeg';
 import kanye10 from  '../images/kanye-sunday-service.webp';
 import kanye11 from  '../images/kanye-west.jpeg';
 import kanye12 from  '../images/kanye-whiteshirt.webp';
+import kanye13 from '../images/kanye-arms.webp';
+import kanye14 from '../images/kanye-jesus-is-king.webp';
 
 function KanyeImage(){
-    const images = [kanye1, kanye2, kanye3, kanye4, kanye5, kanye6, kanye7, kanye8, kanye9, kanye10, kanye11, kanye12];
+    const images = [kanye1, kanye2, kanye3, kanye4, kanye5, kanye6, kanye7, kanye8, kanye9, kanye10, kanye11, kanye12, kanye13, kanye14];
     const randomImage = images[Math.floor(Math.random()* images.length)]
-    console.log(randomImage)
     return(
         <div>
             <img className="kanye"alt="img" src={randomImage}/>
