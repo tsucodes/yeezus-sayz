@@ -11,6 +11,7 @@ body{
   text-decoration: none;
   position: absolute;
   z-index: 2;
+  color: white;
 }
 .home-link:visited {
   color: red;
@@ -24,6 +25,7 @@ body{
   font-size: 25px;
   margin-left: 350px;
   text-decoration: none;
+  color: white;
   /* position: absolute; */
   z-index: 2;
 }
