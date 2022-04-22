@@ -1,4 +1,3 @@
-
 function Facts(props) {
     console.log(props.fact)
     return (

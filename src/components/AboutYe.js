@@ -17,7 +17,7 @@ function AboutYe(props) {
                 <div className="award">{props.accomplishments}</div>
                 <div className="worth">{props.networth}</div>
                 </div>
-                <h1>Did you Know?</h1>
+                <h1>Did you Know Ye?</h1>
                 <ul>
                     {facts}
                 </ul>

@@ -16,11 +16,10 @@ const networth = 'According to forbes his networth is estimated to be a whopping
 const facts = [
   {'fact': 'Changed his legal name to Ye in 2021'},
   {'fact': 'Recorded a song with his jaw wired shut'},
+  {'fact': 'Was sued by Evel Knievel'},
   {'fact': 'Was arrested in 2000 for stealing printers from OfficeMax'},
   {'fact': 'Moved to china for a year at the age of ten'},
-  {'fact': 'Worked to get the Donda West Law passed which requires a patient to receive'},
-  {'fact': 'a physical exam and written clearance from a doctor within 30 days before elective cosmetic surgery'},
-  {'fact': 'Was sued by Evel Knievel'},
+  {'fact': 'Worked to get the Donda West Law passed which requires a patient to receive a physical exam and written clearance from a doctor within 30 days before elective cosmetic surgery'},
 ]
 root.render(
   <React.StrictMode>
