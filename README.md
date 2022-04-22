@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Description
 
-Yeezus Sayz is an affirmation app that displays random quotes from Yeezus himself. The application will include a homepage displaying a random Kanye West Quote and image. Click the Yeezus Says button below to refresh the quote. A Header at the top of the homepage will display a navigation bar with links to an About Ye page. Click the About Ye to visit a page that contains background information on Kanye West.
+Yeezus Sayz is an affirmation app that displays random quotes from Yeezus himself. The application will include a homepage displaying a random Kanye West Quote. Click the Yeezus Says button below to refresh the quote. A Header at the top of the homepage will display a navigation bar with links to an About Ye page. Click the About Ye to visit a page that contains background information on Kanye West.
 
 <!-- ### `npm start`
 
